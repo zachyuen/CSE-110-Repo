@@ -11,7 +11,8 @@
 ###### I have experience coding with the following languages:
 - Java
 - C++
-- Ruby
+- Ruby<sub>kinda</sub>
+- ~~French~~
 
 
 Here is how you would print "Hello World!" in Java:
@@ -21,14 +22,15 @@ public static void main(String[] args) {
 }
 ```
 
-
 [Here is a relative link to a md file](secondfile.md)
 
 #about me
+
 My favorite quote:
 >  **"What doesn't kill you makes you stronger"** - Kelly Clarkson
 
-Here's a song I like: [_I Got a Name_ by Jim Croce](https://www.youtube.com/watch?v=O_BEFyNNIvM).
+Here's a song I like: [_I Got a Name_ by Jim Croce<sup>1973</sup>](https://www.youtube.com/watch?v=O_BEFyNNIvM).
+
 
 My Top 3 Favorite Movies 
 1. The Handmaiden
