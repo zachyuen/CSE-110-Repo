@@ -1,13 +1,13 @@
 # Zach's User Page
 
-##Table of Contents
+## Table of Contents
 1. [About me as a programmer](#programming)
 2. [My interests](#about-me)
 
 ## I am a 3rd year at UCSD studying Math-CS.
 ![UCSD](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png)
 
-#programming
+# programming
 ###### I have experience coding with the following languages:
 - Java
 - C++
@@ -24,7 +24,7 @@ public static void main(String[] args) {
 
 [Here is a relative link to a md file](secondfile.md)
 
-#about me
+# about me
 
 My favorite quote:
 >  **"What doesn't kill you makes you stronger"** - Kelly Clarkson
